@@ -2,26 +2,17 @@
   "actions": {
     "unmatch": ["deshacer match", "eliminar match", "quitar match", "unmatch", "borrar"],
     "report": ["denunciar", "reportar", "informar", "bloquear"],
-    "confirm_unmatch": ["sí, deshacer match", "si, deshacer match", "deshacer match", "confirmar", "sí", "si", "eliminar match", "quitar match", "borrar match"],
+    "confirm_unmatch": ["sí, deshacer match", "si, deshacer match", "deshacer match", "confirmar", "sí", "si", "eliminar match"],
     "cancel": ["cancelar", "no", "volver", "mantener match", "no importa"]
   },
   "menus": {
     "overflow": ["más opciones", "opciones", "más", "menú", "configuración"]
   },
   "labels": {
-    "send": ["enviar", "mandar", "publicar"]
+    "send": ["enviar", "mandar", "publicar", "send"]
   },
   "verification_keywords": [
     "quiere que te verifiquen",
-    "verifica tu perfil",
-    "verificar perfil",
-    "verificación requerida",
-    "solicita verificación",
-    "pide verificación",
-    "selfie verificación",
-    "verificación de pago",
-    "cripto",
-    "tarjeta de regalo",
-    "verificación whatsapp"
+    "verifica tu perfil"
   ]
 }
