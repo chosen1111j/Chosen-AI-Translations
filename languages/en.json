@@ -1,23 +1,28 @@
 {
   "actions": {
-    "unmatch": "Unmatch",
-    "report": "Report",
-    "confirm_unmatch": "Confirm",
-    "cancel": "Cancel"
+    "unmatch": ["unmatch", "remove", "delete", "end match"],
+    "report": ["report", "flag", "block"],
+    "confirm_unmatch": ["yes, unmatch", "unmatch", "confirm", "yes", "delete match", "remove match", "end this match"],
+    "cancel": ["cancel", "no", "back", "keep match", "nevermind"]
   },
   "menus": {
-    "overflow": "More options"
+    "overflow": ["more options", "options", "more", "menu", "settings"]
   },
   "labels": {
-    "send": "Send"
+    "send": ["send", "submit", "post"]
   },
   "verification_keywords": [
+    "wants you to get verified",
+    "wants you to be verified", 
     "verify your profile",
+    "verify my profile",
     "verification required",
-    "selfie",
-    "payment",
+    "asks for verification",
+    "asks you to verify",
+    "selfie verification",
+    "payment verification",
     "crypto",
     "gift card",
-    "WhatsApp verify"
+    "whatsapp verification"
   ]
 }
