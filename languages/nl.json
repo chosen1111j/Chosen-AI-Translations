@@ -1,0 +1,23 @@
+{
+  "actions": {
+    "unmatch": "Match opheffen",
+    "report": "Rapporteren",
+    "confirm_unmatch": "Bevestigen",
+    "cancel": "Annuleren"
+  },
+  "menus": {
+    "overflow": "Meer opties"
+  },
+  "labels": {
+    "send": "Verzenden"
+  },
+  "verification_keywords": [
+    "verifieer je profiel",
+    "verificatie vereist",
+    "selfie",
+    "betaling",
+    "crypto",
+    "cadeaubon",
+    "WhatsApp verificatie"
+  ]
+}
