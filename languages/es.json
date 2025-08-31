@@ -1,23 +1,21 @@
 {
   "actions": {
-    "unmatch": "Deshacer match",
-    "report": "Denunciar",
-    "confirm_unmatch": "Confirmar",
-    "cancel": "Cancelar"
+    "unmatch": ["deshacer match", "eliminar match", "quitar match", "unmatch"],
+    "report": ["denunciar", "reportar", "informar"],
+    "confirm_unmatch": ["sí, deshacer match", "confirmar", "sí", "eliminar", "deshacer"],
+    "cancel": ["cancelar", "no", "volver"]
   },
   "menus": {
-    "overflow": "Más opciones"
+    "overflow": ["más opciones", "opciones", "más", "menú"]
   },
   "labels": {
-    "send": "Enviar"
+    "send": ["enviar", "mandar"]
   },
   "verification_keywords": [
     "verifica tu perfil",
-    "verificación requerida",
-    "selfie",
-    "pago",
-    "cripto",
-    "tarjeta de regalo",
-    "WhatsApp verificación"
+    "verificación requerida", 
+    "quiere que te verifiquen",
+    "verificar perfil",
+    "solicita verificación"
   ]
 }
