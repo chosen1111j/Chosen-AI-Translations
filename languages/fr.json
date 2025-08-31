@@ -1,23 +1,25 @@
 {
   "actions": {
-    "unmatch": "Annuler le match",
-    "report": "Signaler",
-    "confirm_unmatch": "Confirmer",
-    "cancel": "Annuler"
+    "unmatch": ["annuler le match", "supprimer match", "enlever match", "défaire match"],
+    "report": ["signaler", "reporter", "bloquer"],
+    "confirm_unmatch": ["oui, annuler le match", "annuler le match", "confirmer", "oui", "supprimer match", "enlever match", "défaire match"],
+    "cancel": ["annuler", "non", "retour", "garder match", "peu importe"]
   },
   "menus": {
-    "overflow": "Plus d'options"
+    "overflow": ["plus d'options", "options", "plus", "menu", "paramètres"]
   },
   "labels": {
-    "send": "Envoyer"
+    "send": ["envoyer", "publier", "soumettre"]
   },
   "verification_keywords": [
+    "veut que vous soyez vérifié",
     "vérifier votre profil",
     "vérification requise",
-    "selfie",
-    "paiement",
+    "demande vérification",
+    "selfie vérification",
+    "vérification paiement",
     "crypto",
     "carte cadeau",
-    "WhatsApp vérification"
+    "vérification whatsapp"
   ]
 }
