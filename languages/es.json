@@ -2,7 +2,7 @@
   "actions": {
     "unmatch": ["deshacer match", "eliminar match", "quitar match", "unmatch", "borrar"],
     "report": ["denunciar", "reportar", "informar", "bloquear"],
-    "confirm_unmatch": ["sí, deshacer match", "deshacer match", "confirmar", "sí", "eliminar match", "quitar match", "borrar match"],
+    "confirm_unmatch": ["sí, deshacer match", "si, deshacer match", "deshacer match", "confirmar", "sí", "si", "eliminar match", "quitar match", "borrar match"],
     "cancel": ["cancelar", "no", "volver", "mantener match", "no importa"]
   },
   "menus": {
