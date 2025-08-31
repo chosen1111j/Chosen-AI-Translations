@@ -1,23 +1,25 @@
 {
   "actions": {
-    "unmatch": "Match opheffen",
-    "report": "Rapporteren",
-    "confirm_unmatch": "Bevestigen",
-    "cancel": "Annuleren"
+    "unmatch": ["match ongedaan maken", "match verwijderen", "match weghalen", "unmatch"],
+    "report": ["rapporteren", "melden", "blokkeren"],
+    "confirm_unmatch": ["ja, match ongedaan maken", "match ongedaan maken", "bevestigen", "ja", "match verwijderen", "verwijderen", "weghalen"],
+    "cancel": ["annuleren", "nee", "terug", "match behouden", "maakt niet uit"]
   },
   "menus": {
-    "overflow": "Meer opties"
+    "overflow": ["meer opties", "opties", "meer", "menu", "instellingen"]
   },
   "labels": {
-    "send": "Verzenden"
+    "send": ["verzenden", "versturen", "posten"]
   },
   "verification_keywords": [
-    "verifieer je profiel",
+    "wil dat je wordt geverifieerd",
+    "profiel verifiëren",
     "verificatie vereist",
-    "selfie",
-    "betaling",
+    "vraagt om verificatie",
+    "selfie verificatie",
+    "betaalverificatie",
     "crypto",
     "cadeaubon",
-    "WhatsApp verificatie"
+    "whatsapp verificatie"
   ]
 }
