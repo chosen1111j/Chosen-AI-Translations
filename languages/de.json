@@ -1,23 +1,25 @@
 {
   "actions": {
-    "unmatch": "Match aufheben",
-    "report": "Melden",
-    "confirm_unmatch": "Bestätigen",
-    "cancel": "Abbrechen"
+    "unmatch": ["match aufheben", "match löschen", "match entfernen", "unmatch"],
+    "report": ["melden", "blockieren", "reporten"],
+    "confirm_unmatch": ["ja, match aufheben", "match aufheben", "bestätigen", "ja", "match löschen", "match entfernen", "löschen"],
+    "cancel": ["abbrechen", "nein", "zurück", "match behalten", "egal"]
   },
   "menus": {
-    "overflow": "Weitere Optionen"
+    "overflow": ["mehr optionen", "optionen", "mehr", "menü", "einstellungen"]
   },
   "labels": {
-    "send": "Senden"
+    "send": ["senden", "abschicken", "posten"]
   },
   "verification_keywords": [
+    "möchte, dass du verifiziert wirst",
     "profil verifizieren",
     "verifizierung erforderlich",
-    "selfie",
-    "zahlung",
+    "bittet um verifizierung",
+    "selfie verifizierung",
+    "zahlungsverifizierung",
     "krypto",
     "geschenkkarte",
-    "WhatsApp verifizierung"
+    "whatsapp verifizierung"
   ]
 }
