@@ -1,0 +1,23 @@
+{
+  "actions": {
+    "unmatch": "Deshacer match",
+    "report": "Denunciar",
+    "confirm_unmatch": "Confirmar",
+    "cancel": "Cancelar"
+  },
+  "menus": {
+    "overflow": "Más opciones"
+  },
+  "labels": {
+    "send": "Enviar"
+  },
+  "verification_keywords": [
+    "verifica tu perfil",
+    "verificación requerida",
+    "selfie",
+    "pago",
+    "cripto",
+    "tarjeta de regalo",
+    "WhatsApp verificación"
+  ]
+}
