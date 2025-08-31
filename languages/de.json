@@ -1,0 +1,23 @@
+{
+  "actions": {
+    "unmatch": "Match aufheben",
+    "report": "Melden",
+    "confirm_unmatch": "Bestätigen",
+    "cancel": "Abbrechen"
+  },
+  "menus": {
+    "overflow": "Weitere Optionen"
+  },
+  "labels": {
+    "send": "Senden"
+  },
+  "verification_keywords": [
+    "profil verifizieren",
+    "verifizierung erforderlich",
+    "selfie",
+    "zahlung",
+    "krypto",
+    "geschenkkarte",
+    "WhatsApp verifizierung"
+  ]
+}
